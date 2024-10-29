@@ -1,4 +1,4 @@
 # 1st-repo
-Diya's REpo
+Diya's Repo
 <br>
 Author-Diyap
